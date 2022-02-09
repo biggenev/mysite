@@ -356,16 +356,8 @@
   padding: 30px;
 }
 
-.u-section-2 .u-text-7 {
-  margin-top: 0;
-  margin-bottom: 0;
-  line-height: 1.8;
-}
-
 .u-section-2 .u-btn-2 {
-  margin-left: 0;
-  text-transform: uppercase;
-  letter-spacing: 1px;
+  margin: 0 auto 0 12px;
 }
 
 @media (max-width: 1199px) {
@@ -391,6 +383,10 @@
   .u-section-2 .u-line-2 {
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-left: 0;
   }
 }
 
