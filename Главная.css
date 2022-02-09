@@ -332,20 +332,9 @@
 }
 
 .u-section-2 .u-text-5 {
+  margin-left: 0;
+  margin-bottom: 0;
   margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-2 .u-text-6 {
-  margin-left: 0;
-  margin-bottom: 0;
-}
-
-.u-section-2 .u-btn-1 {
-  margin-left: 0;
-  margin-right: 0;
-  border-style: solid;
-  text-transform: uppercase;
 }
 
 .u-section-2 .u-tab-pane-4 {
@@ -356,7 +345,7 @@
   padding: 30px;
 }
 
-.u-section-2 .u-btn-2 {
+.u-section-2 .u-btn-1 {
   margin: 0 auto 0 12px;
 }
 
@@ -385,7 +374,7 @@
     margin-left: initial;
   }
 
-  .u-section-2 .u-btn-2 {
+  .u-section-2 .u-btn-1 {
     margin-left: 0;
   }
 }
