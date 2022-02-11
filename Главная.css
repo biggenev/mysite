@@ -80,7 +80,6 @@
 .u-section-1 .u-image-1 {
   width: 800px;
   min-height: 487px;
-  height: auto;
   background-image: url("images/11.jpg");
   margin: 30px auto 43px;
 }
@@ -96,10 +95,6 @@
 
   .u-section-1 .u-repeater-1 {
     grid-template-columns: calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px);
-  }
-
-  .u-section-1 .u-image-1 {
-    height: auto;
   }
 }
 
