@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 1218px;
+  min-height: 1290px;
 }
 
 .u-section-1 .u-list-1 {
@@ -77,11 +77,16 @@
   margin: 51px 9px 0 0;
 }
 
+.u-section-1 .u-text-9 {
+  font-weight: 900;
+  font-size: 1.875rem;
+  margin: 79px 279px 0 auto;
+}
+
 .u-section-1 .u-group-1 {
   width: 831px;
   min-height: 431px;
-  height: auto;
-  margin: 63px 121px 60px auto;
+  margin: 26px 121px 60px 188px;
 }
 
 .u-section-1 .u-container-layout-5 {
@@ -95,26 +100,18 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1100px;
-  }
-
   .u-section-1 .u-repeater-1 {
     grid-template-columns: calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px);
   }
 
   .u-section-1 .u-group-1 {
-    margin-right: 109px;
     background-position: 50% 50%;
-    height: auto;
+    margin-right: 21px;
+    margin-left: 88px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 900px;
-  }
-
   .u-section-1 .u-list-1 {
     margin-right: 94px;
   }
@@ -123,17 +120,18 @@
     grid-template-columns: calc(50% - 5px) calc(50% - 5px);
   }
 
+  .u-section-1 .u-text-9 {
+    margin-right: 214px;
+  }
+
   .u-section-1 .u-group-1 {
     width: 720px;
     margin-right: 0;
+    margin-left: 0;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1127px;
-  }
-
   .u-section-1 .u-list-1 {
     width: 540px;
     margin-right: 0;
@@ -175,6 +173,10 @@
     margin-right: 0;
   }
 
+  .u-section-1 .u-text-9 {
+    margin-right: 161px;
+  }
+
   .u-section-1 .u-group-1 {
     width: 540px;
   }
@@ -186,16 +188,16 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 986px;
-  }
-
   .u-section-1 .u-list-1 {
     width: 340px;
   }
 
   .u-section-1 .u-repeater-1 {
     grid-template-columns: 100%;
+  }
+
+  .u-section-1 .u-text-9 {
+    margin-right: 101px;
   }
 
   .u-section-1 .u-group-1 {
@@ -207,14 +209,13 @@
     height: 183px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 1463px;
+  min-height: 1478px;
 }
 
 .u-section-2 .u-tabs-1 {
   min-height: 299px;
   width: 667px;
-  height: auto;
-  margin: 60px 207px 60px auto;
+  margin: 75px 207px 60px auto;
 }
 
 .u-section-2 .u-tab-item-1 {
@@ -365,6 +366,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-2 .u-tabs-1 {
+    height: auto;
+  }
+
   .u-section-2 .u-line-1 {
     margin-right: initial;
     margin-left: initial;
