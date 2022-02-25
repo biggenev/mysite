@@ -311,7 +311,7 @@
   border-style: none;
   font-weight: 700;
   text-transform: uppercase;
-  margin: 16px auto 0 11px;
+  margin: 68px auto 0;
 }
 
 .u-section-2 .u-tab-pane-3 {
@@ -362,7 +362,7 @@
 }
 
 .u-section-2 .u-btn-2 {
-  margin: 17px auto 0 19px;
+  margin: 0 auto;
 }
 
 @media (max-width: 1199px) {
@@ -403,10 +403,6 @@
     padding-right: 10px;
   }
 
-  .u-section-2 .u-btn-1 {
-    margin-left: 0;
-  }
-
   .u-section-2 .u-container-layout-4 {
     padding-left: 10px;
     padding-right: 10px;
@@ -415,10 +411,6 @@
   .u-section-2 .u-container-layout-5 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-2 .u-btn-2 {
-    margin-left: 0;
   }
 }
 
